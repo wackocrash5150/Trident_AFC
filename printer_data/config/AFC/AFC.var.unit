@@ -1,10 +1,10 @@
 {
     "Turtle_1": {
         "leg1": {
-            "spool_id": "12",
-            "material": "ABS",
-            "color": "#000000",
-            "weight": 961.5178981925277,
+            "spool_id": "",
+            "material": "",
+            "color": "",
+            "weight": "",
             "runout_lane": "NONE",
             "map": "T0",
             "index": 1,
@@ -13,22 +13,22 @@
             "status": null
         },
         "leg2": {
-            "spool_id": "18",
-            "material": "ABS",
-            "color": "#ff0000",
-            "weight": 182.09117155060142,
+            "spool_id": "",
+            "material": "",
+            "color": "",
+            "weight": "",
             "runout_lane": "NONE",
             "map": "T1",
             "index": 2,
             "tool_loaded": false,
-            "hub_loaded": true,
-            "status": null
+            "hub_loaded": false,
+            "status": ""
         },
         "leg3": {
-            "spool_id": "4",
-            "material": "ABS",
-            "color": "#1958CE",
-            "weight": 993.6425784067727,
+            "spool_id": "",
+            "material": "",
+            "color": "",
+            "weight": "",
             "runout_lane": "NONE",
             "map": "T2",
             "index": 3,
@@ -37,16 +37,16 @@
             "status": null
         },
         "leg4": {
-            "spool_id": "8",
-            "material": "ABS",
-            "color": "#FFFFFF",
-            "weight": 956.3011731407955,
+            "spool_id": "",
+            "material": "",
+            "color": "",
+            "weight": "",
             "runout_lane": "NONE",
             "map": "T3",
             "index": 4,
             "tool_loaded": false,
-            "hub_loaded": true,
-            "status": null
+            "hub_loaded": false,
+            "status": ""
         }
     }
 }
