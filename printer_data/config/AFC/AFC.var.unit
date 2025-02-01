@@ -1,52 +1,107 @@
 {
     "Turtle_1": {
-        "leg1": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
-            "runout_lane": "NONE",
+        "lane1": {
+            "name": "lane1",
+            "unit": "Turtle_1",
+            "hub": "Turtle_1",
+            "extruder": "extruder",
+            "buffer": "Turtle_1",
+            "buffer_status": "Unknown",
+            "lane": 1,
             "map": "T0",
-            "index": 1,
+            "load": true,
+            "prep": true,
             "tool_loaded": false,
-            "hub_loaded": false,
-            "status": ""
-        },
-        "leg2": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "loaded_to_hub": true,
+            "material": "ABS",
+            "spool_id": "12",
+            "color": "#000000",
+            "weight": 913.6520004128879,
+            "extruder_temp": 245,
             "runout_lane": "NONE",
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded"
+        },
+        "lane2": {
+            "name": "lane2",
+            "unit": "Turtle_1",
+            "hub": "Turtle_1",
+            "extruder": "extruder",
+            "buffer": "Turtle_1",
+            "buffer_status": "Unknown",
+            "lane": 2,
             "map": "T1",
-            "index": 2,
+            "load": true,
+            "prep": true,
             "tool_loaded": false,
-            "hub_loaded": false,
-            "status": ""
-        },
-        "leg3": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "loaded_to_hub": true,
+            "material": "ABS",
+            "spool_id": "18",
+            "color": "#ff0000",
+            "weight": 177.0779078401364,
+            "extruder_temp": 245,
             "runout_lane": "NONE",
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded"
+        },
+        "lane3": {
+            "name": "lane3",
+            "unit": "Turtle_1",
+            "hub": "Turtle_1",
+            "extruder": "extruder",
+            "buffer": "Turtle_1",
+            "buffer_status": "Unknown",
+            "lane": 3,
             "map": "T2",
-            "index": 3,
+            "load": true,
+            "prep": true,
             "tool_loaded": false,
-            "hub_loaded": false,
-            "status": ""
-        },
-        "leg4": {
-            "spool_id": "",
-            "material": "",
-            "color": "",
-            "weight": "",
+            "loaded_to_hub": true,
+            "material": "ABS",
+            "spool_id": "4",
+            "color": "#1958CE",
+            "weight": 993.6425784067727,
+            "extruder_temp": 245,
             "runout_lane": "NONE",
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded"
+        },
+        "lane4": {
+            "name": "lane4",
+            "unit": "Turtle_1",
+            "hub": "Turtle_1",
+            "extruder": "extruder",
+            "buffer": "Turtle_1",
+            "buffer_status": "Unknown",
+            "lane": 4,
             "map": "T3",
-            "index": 4,
+            "load": true,
+            "prep": true,
             "tool_loaded": false,
-            "hub_loaded": false,
-            "status": ""
+            "loaded_to_hub": true,
+            "material": "ABS",
+            "spool_id": "8",
+            "color": "#FFFFFF",
+            "weight": 952.7222968214174,
+            "extruder_temp": 245,
+            "runout_lane": "NONE",
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded"
+        }
+    },
+    "system": {
+        "current_load": null,
+        "num_units": 1,
+        "num_lanes": 4,
+        "num_extruders": 1,
+        "extruders": {
+            "extruder": {
+                "lane_loaded": null
+            }
         }
     }
 }
